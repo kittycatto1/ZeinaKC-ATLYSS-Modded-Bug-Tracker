@@ -1,5 +1,5 @@
 # EverythingMaps Statistics
-Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RPR which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aims of adding transparency to the sheer size of what you're including and downloading. Obviously at the end of the day it's just numbers and would require profiling to be objective, so just valuate them based on your views.\
+Due to the rising concerns of performance for ATLYSS server modpacks, particularly from Shy RP which helped accelerate the movement from general modpacks to dedicated modpacks, this collection of statistics was gathered in aims of adding transparency to the sheer size of what you're including and downloading. Obviously at the end of the day it's just numbers and would require profiling to be objective, so just valuate them based on your views.\
 Note that this is reading off of the MapBundle, which are apparently compressed, I will add another category for uncompressed
 
 The information is gathered by checking "Properties" on MapBundles files and reading "Size" instead of "Size on disk".\
@@ -31,3 +31,4 @@ The information is gathered by checking "Properties" on MapBundles files and rea
 | ZenFishes         | Starlight Magistics Academy | 1.8.2    | 19MB          | None   |                                                                                                  |
 | ZweiHanda         | Distant Memory              | 1.0.0    | 9.30MB        | None   |                                                                                                  |
 | Author            | Map                         | Version  | MapBundle     | Misc   | Additional notes                                                                                 |
+
