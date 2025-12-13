@@ -30,5 +30,4 @@ Author -> Map alphabetical sorting.
 | ZenFishes         | Green Screen World          | 1.0.0   | 404KB     | 2.5MB        | 2.61KB Misc.                                                                                     |
 | ZenFishes         | Starlight Magistics Academy | 1.7.4   | 19MB      | 57.5MB       |                                                                                                  |
 | ZweiHanda         | Distant Memory              | 0.2.4   | 9.30MB    | 19.1MB       |                                                                                                  |
-| ----------------- | --------------------------- | ------- | --------- | ------------ | ------------------------------------------------------------------------------------------------ |
 | Author            | Map                         | Version | MapBundle | Uncompressed | Additional notes                                                                                 |
