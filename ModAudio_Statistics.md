@@ -148,5 +148,4 @@ Author -> Pack alphabetical sorting,
 | ZenFishes              | Rain World Themes                                  | 1.0.0   | 37.6MB | 10    |                                                                                                  |
 | ZenFishes              | Zera Atlyss Remix                                  | 3.2.1   | 142MB  | 37    | Spread across 4 folders                                                                          |
 | ZenFishes              | Zera Project Music                                 | 1.0.1   | 108MB  | 13    |                                                                                                  |
-| ---------------------- | -------------------------------------------------- | ------- | -------| ----- | ------------------------------------------------------------------------------------------------ |
 | Author                 | Pack                                               | version | Size   | Files | Additional notes                                                                                 |
